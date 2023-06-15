@@ -11,14 +11,14 @@ In the development of the project we used Classification, Clustering and Regress
 We applied Supervised techniques in order to classify the best crop given certain environmental conditions. After the analysis we notice strange accuracy results and an careful data exploration led us consider the first dataset as unreal.
 * Logistic Regression without an hyperparameter tuning with an accuracy value of 93%
 * Decision Trees with an accuracy value of 96% 
-<br />
-On the second dataset we applied Unsupervised techninques:
-* Clustering with PCA or without PCA ( using Elbow Method, Agglomerative Clustering and K-Means) and comparison
-<br />
-On the singular crop data inside the same cluster, we applied Regression techninques in order to predict the estimated economic revenue for each crop:
+
+On the second dataset we applied Unsupervised techninques
+* Clustering with PCA or without PCA ( using Elbow Method, Agglomerative Clustering and K-Means) and comparison 
+
+On the singular crop data inside the same cluster, we applied Regression techninques in order to predict the estimated economic revenue for each crop
 * Linear Regression
 * Least Squared Regression
-<br />
+
 Economic revenue results were not reliable due to data problems. 
 
 ### Steps
@@ -46,3 +46,4 @@ Luca Giudici
 <br />
 Daniele Giorgianni
 <br />
+Jonathan Dao
