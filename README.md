@@ -44,6 +44,6 @@ Economic revenue results were not reliable due to data problems.
 <br />
 [Luca Giudici](https://github.com/LucaGiudiciPoliMi)
 <br />
-Daniele Giorgianni
+[Daniele Giorgianni](https://github.com/DanieleGiorgianni)
 <br />
 Jonathan Dao
