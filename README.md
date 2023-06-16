@@ -40,9 +40,9 @@ Economic revenue results were not reliable due to data problems.
 * [Numpy](https://numpy.org/)
 
 #### Group Members:
-Leonardo Giusti
+[Leonardo Giusti](https://github.com/giusti-leo)
 <br />
-Luca Giudici
+[Luca Giudici](https://github.com/LucaGiudiciPoliMi)
 <br />
 Daniele Giorgianni
 <br />
